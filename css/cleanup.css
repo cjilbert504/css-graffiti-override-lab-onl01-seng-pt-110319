@@ -5,3 +5,7 @@
 body #wall #tag-2 { /* 201 */
   display: none;
 }
+
+div#wall div#tag-3.slick, .wicked{ /*222*/
+  display: none;
+}
